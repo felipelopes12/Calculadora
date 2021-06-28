@@ -1,5 +1,5 @@
 <h3 align="center">
-   Calculadora
+  🔢 Calculadora 🔢
 </h3>
 
 <blockquote align="center">“Divisão, multiplicação, soma e subtraçao”</blockquote>
@@ -53,8 +53,6 @@ Copyright (c) 2021 by Amadeu Filipe Lopes (https://codepen.io/felipelopes12/pen/
 [html]: https://developer.mozilla.org/pt-BR/docs/Web/HTML
 [css]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
 [js]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
-
-
 
 
 
