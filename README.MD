@@ -1,13 +1,14 @@
-<h1 align="center">
-    <img alt="Launchbase" src="img/calculadora.PNG" width="400px" />
-</h1>
+
+<p align="center">
+<img width="100%" src="img/calculadora.PNG">
+</p>
 
 
 <h3 align="center">
    Marcador de Truco
 </h3>
 
-<blockquote align="center">“Marcador para jogar com amigos e competiçoest”</blockquote>
+<blockquote align="center">“Marcador para jogar com amigos e participar de competições”</blockquote>
 
 
 ## :rocket: Tecnologias:
@@ -17,7 +18,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [HTML][html]
 - [CSS][css]
 - [Java][js]
-
 
 ## 💡 Funcionalidades
 
@@ -45,8 +45,6 @@ Um evento com 10 aulas gratuitas e desafios práticos para dar os primeiros pass
 ## O que você vai aprender??
 
 <img src="img/htmlecss.PNG">
-<br/>
-
 <img src="img/portifoliop.PNG">
 
 
@@ -58,3 +56,7 @@ Projeto feito na semana Imersão DEV da Alura. 🏆 [Saiba mais!](https://imersa
 Copyright (c) 2021 by Amadeu Filipe Lopes (https://codepen.io/felipelopes12/pen/JjEoNMd)
 
 
+
+[html]: https://developer.mozilla.org/pt-BR/docs/Web/HTML
+[css]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
+[js]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
